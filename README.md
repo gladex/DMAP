@@ -1,4 +1,4 @@
-## PanCanDMAT (Pan-Cancer DNA Methylation Analysis Toolkit)
+### PanCanDMAT (Pan-Cancer DNA Methylation Analysis Toolkit)
 
 This GitHub portal is for depositing the Pan-Cancer DNA Methylation Analysis Toolkit (PanCanMAT) & related analysis results for our recent ENCODE project.
 
