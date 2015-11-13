@@ -1,5 +1,5 @@
 
-plotPost=function(paramSampleVec, credMass=0.95, compVal=NULL,
+fun_plotPost=function(paramSampleVec, credMass=0.95, compVal=NULL,
                   HDItextPlace=0.7 , ROPE=NULL, yaxt=NULL, ylab=NULL,
                   xlab=NULL, cex.lab=NULL, cex=NULL, xlim=NULL, main=NULL,
                   col=NULL, border=NULL, showMode=F, showCurve=F, breaks=NULL,
@@ -110,7 +110,7 @@ plotPost=function(paramSampleVec, credMass=0.95, compVal=NULL,
       postSummary[,"ROPEhigh"]=ROPE[2]
       postSummary[,"pcInROPE"]=pcInROPE
     }
-
+    
     ### 5.Display the HDI.
     lines(HDI,c(0,0),lwd=4,col="brown")
     text(mean(HDI), 0, bquote(.(100*credMass)*"% CI"),
