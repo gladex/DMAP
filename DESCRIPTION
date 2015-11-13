@@ -1,0 +1,11 @@
+Package: PanCanMAP
+Type: Package
+Title: Pan-Cancer DNA Methylation Analyis Package
+Version: 1.0
+Date: 2015-11-13
+Author: Binhua Tang <bh.tang@outlook.com>
+Maintainer: Binhua Tang <bh.tang@outlook.com>
+Description: PanCanMAP is designed to analyze DNA methylation data across multiple cancer and normal cell types. Currently it supports RRBS format in DNA methylation. 
+License: GPL-2
+LazyLoad: yes
+Suggests: methylKit, MCMCpack
