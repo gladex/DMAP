@@ -1,5 +1,4 @@
 
-
 fun_getDMRGenes <- function(myDmr, subGeneReg) {
   DMG=NULL
   for(i in 1:length(myDmr)){
