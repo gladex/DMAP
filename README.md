@@ -6,4 +6,4 @@ This package is mainly for the analysis of pan-cancer DNA methylation data from 
 
 We continuously update and revise the contents of this knowledgebase. Suggestion or recommendation to pan-cancer analysis repository, PanCanMAP, is greatly appreciated at bh.tang@outlook.com. Any citation or usage of the package, PanCanMAP, please cite properly (PanCanMAP: http://github.com/gladex/PanCanMAP).
 
-(c) BHT
+(c) BHT 2015.
