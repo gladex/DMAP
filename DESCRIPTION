@@ -8,4 +8,4 @@ Maintainer: Binhua Tang <bh.tang@outlook.com>
 Description: PanCanMAP is designed to analyze DNA methylation data across multiple cancer and normal cell types. Currently it supports RRBS format in DNA methylation. 
 License: GPL-2
 LazyLoad: yes
-Suggests: ggplot2, methylKit, MCMCpack, limma
+Suggests: ggplot2, DEseq, limma
