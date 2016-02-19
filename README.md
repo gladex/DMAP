@@ -27,4 +27,4 @@ All the curated reference sources and read-to-use pan-cancer analysis results ar
 
 Any citation or usage of the package, PanCanMAP, please cite properly (PanCanMAP: http://github.com/gladex/PanCanMAP).
 
-(C) EFG@HHU | BHT | Email: bh.tang@outlook.com | 2016
+#(C) EFG@HHU | BHT | Email: bh.tang@outlook.com | 2016
