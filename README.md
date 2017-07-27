@@ -25,8 +25,8 @@ Gene Ontology annotation results for the TSGs identified from hypo-DMRs.
 
 All the curated reference sources and read-to-use pan-cancer analysis results are deposited at this GitHub portal. We continuously update and revise the contents of this package and related results. Suggestions or advices to pan-cancer analysis repository, PanCanMAP, are very welcome to me at bh.tang@outlook.com.
 
-Any citation or usage of the package, please cite: 
+Any citation or usage of the package, please kindly cite: 
 
 Tang, B.; Zhou, Y.; Wang, C.-M.; Huang, T.H.M.; Jin, V.X. Integration of DNA methylation and gene transcription across nineteen cell types reveals cell type-specific and genomic region-dependent regulatory patterns. Scientific Reports 2017, 7, 3626.
 
-[EFG@HHU | BHT | Last update: 2017/04/15]
+[BHT | EFG@HHU | Last update: 2017/06/15]
