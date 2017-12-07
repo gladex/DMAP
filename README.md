@@ -23,7 +23,7 @@ Gene Ontology annotation results for the TSGs identified from hyper-DMRs;
 #### D9_GO_HypoDMR:
 Gene Ontology annotation results for the TSGs identified from hypo-DMRs.
 
-All the curated reference sources and read-to-use pan-cancer analysis results are deposited at this GitHub portal. We continuously update and revise the contents of this package and related results. Suggestions or advices to pan-cancer analysis repository, PanCanMAP, are very welcome to me at bh.tang@outlook.com.
+All the curated reference sources and read-to-use pan-cancer analysis results are deposited at this GitHub portal. We continuously update and revise the contents of this package and related results. Suggestions or advices to pan-cancer analysis repository, PanCanMAP, are welcome to contact bh.tang@outlook.com.
 
 Any citation or usage of the package, please kindly cite: 
 
